@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kcfdaniel/Downloads/react-native-webrtc-client-expo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/kcfdaniel/Downloads/react-native-webrtc-client-expo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kcfdaniel/Downloads/react-native-webrtc-client/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/kcfdaniel/Downloads/react-native-webrtc-client/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
